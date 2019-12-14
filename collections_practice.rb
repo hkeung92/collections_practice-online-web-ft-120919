@@ -47,5 +47,11 @@ def find_a(array)
   array.find_all{|i| i[0] == "a"}
 end
   
+def sum_array(array)
+  
+  
+  
+  
+  
   
   
