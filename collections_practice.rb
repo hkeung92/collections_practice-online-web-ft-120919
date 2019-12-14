@@ -45,7 +45,6 @@ end
   
 def find_a(array)
   array.find{|i| i[0] == "a"}
-  array
 end
   
   
